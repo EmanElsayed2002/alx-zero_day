@@ -1,2 +1,7 @@
 #!bin/bash
-echo "ALX"
+echo "ALX School is cool!"
+_
+cat > alx << _EOF_
+#!bin/bash
+
+echo "ALX School is cool!"
